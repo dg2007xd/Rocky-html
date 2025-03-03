@@ -51,17 +51,6 @@ nav a{
     font-weight: bold;
     color: white;
 }
-nav1 a{
-    
-    text-decoration: none;
-    font-size: 20px;
-    padding: 10px;
-    font-weight: bold;
-    color: white;
-}
-nav1 a:hover{
-    color: red;
-}
 nav a:hover{
     color: red;
 }
@@ -74,17 +63,6 @@ nav ul{
     list-style-type: none;
 }
 nav li{
-    margin-right: 50px;
-}
-nav1 ul{
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: flex-start;
-    align-items: center;
-    list-style-type: none;
-}
-nav1 li{
     margin-right: 50px;
 }
 aside {
@@ -177,9 +155,6 @@ img{
     width: 560px;
     height: 315px;
 }
-#menu-direc{
+.text-nav{
     color: black;
-}
-#menu-princ{
-    color: white;
 }
