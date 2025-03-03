@@ -38,13 +38,13 @@ nav ul li {
 }
 nav ul li a{
     text-decoration: none;
-    color: white;
+    
 }
 nav {
     width: 100%;
 }
 nav a{
-    color: white;
+    
     text-decoration: none;
     font-size: 20px;
     padding: 10px;
@@ -156,4 +156,7 @@ img{
 }
 #menu-direc{
     color: black;
+}
+#menu-princ{
+    color: white;
 }
